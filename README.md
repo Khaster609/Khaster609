@@ -1,5 +1,5 @@
 
-# Korben Robinson  [<img align="right" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>]()
+# Korben Robinson  [<img align="right" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>](https://www.linkedin.com/in/korben-robinson-1882621a2/)
 
 
 ### Digital Craftsman (3D Modeling, Game Development)
