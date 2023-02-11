@@ -1,11 +1,7 @@
 <base target="_blank">
 
-# Korben Robinson      <a href="https://www.linkedin.com/in/korben-robinson-1882621a2/" target="_blank"><img align="right" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
-
-
-old
-[<img align="right" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>](https://www.linkedin.com/in/korben-robinson-1882621a2/)
-
+# Korben Robinson       [<img align="right" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>](https://www.linkedin.com/in/korben-robinson-1882621a2/)
+[<div align="right"> My Website</div>](https://korben-robinson.webflow.io/)
 
 ### Digital Craftsman (3D Modeling, Game Development)
   
